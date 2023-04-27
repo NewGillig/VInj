@@ -1,0 +1,1 @@
+if!@#$(!@#$length!@#$==!@#$UINT32_MAX!@#$||!@#$length!@#$>!@#$max_size!@#$)!@#${!@#$if!@#$(!@#$errcode!@#$)!@#$*!@#$errcode!@#$=!@#$ERR_DER_ELEMENT_SIZE_TOO_BIG!@#$;!@#$}!@#$

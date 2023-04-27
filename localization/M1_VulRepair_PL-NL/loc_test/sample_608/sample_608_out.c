@@ -1,0 +1,1 @@
+gid_t!@#$gid!@#$=!@#$g_slurm_auth_get_gid!@#$(!@#$msg!@#$->!@#$auth_cred!@#$,!@#$slurmctld_config!@#$.!@#$auth_info!@#$)!@#$;!@#$

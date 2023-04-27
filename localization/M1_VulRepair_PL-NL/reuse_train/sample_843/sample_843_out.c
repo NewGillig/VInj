@@ -1,0 +1,1 @@
+print_comment!@#$(!@#$md_result_file!@#$,!@#$0!@#$,!@#$"\n--\n-- Current Database: %s\n--\n"!@#$,!@#$fix_for_comment!@#$(!@#$qdatabase!@#$)!@#$)!@#$;!@#$

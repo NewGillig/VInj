@@ -1,0 +1,1 @@
+mot_val!@#$=!@#$s!@#$->!@#$current_picture!@#$.!@#$motion_val!@#$[!@#$dir!@#$]!@#$+!@#$s!@#$->!@#$block_index!@#$[!@#$block!@#$]!@#$;!@#$

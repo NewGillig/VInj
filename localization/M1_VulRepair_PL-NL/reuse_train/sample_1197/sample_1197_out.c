@@ -1,0 +1,1 @@
+if!@#$(!@#$!!@#$current_cpu!@#$)!@#$return!@#$current_cpu!@#$->!@#$cpu_index!@#$;!@#$

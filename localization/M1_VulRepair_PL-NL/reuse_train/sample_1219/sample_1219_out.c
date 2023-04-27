@@ -1,0 +1,1 @@
+if!@#$(!@#$!!@#$RTEST!@#$(!@#$rb_attr_get!@#$(!@#$self!@#$,!@#$id_key_set!@#$)!@#$)!@#$)!@#$ossl_raise!@#$(!@#$eCipherError!@#$,!@#$"key not set"!@#$)!@#$;!@#$

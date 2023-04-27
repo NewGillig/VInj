@@ -1,0 +1,1 @@
+uint32_t!@#$color_count!@#$,!@#$color_start!@#$,!@#$color_end!@#$;!@#$

@@ -1,0 +1,1 @@
+nla_strlcpy!@#$(!@#$link_info!@#$.!@#$str!@#$,!@#$nla_data!@#$(!@#$link!@#$[!@#$TIPC_NLA_LINK_NAME!@#$]!@#$)!@#$,!@#$TIPC_MAX_LINK_NAME!@#$)!@#$;!@#$

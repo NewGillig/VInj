@@ -1,0 +1,1 @@
+s!@#$->!@#$current_picture!@#$.!@#$qscale_table!@#$[!@#$mb_xy!@#$]!@#$=!@#$s!@#$->!@#$qscale!@#$;!@#$

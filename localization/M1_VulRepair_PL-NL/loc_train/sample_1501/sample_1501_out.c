@@ -1,0 +1,1 @@
+const!@#$int!@#$bits_per_mb_at_this_q!@#$=!@#$(!@#$int!@#$)!@#$vp9_rc_bits_per_mb!@#$(!@#$cm!@#$->!@#$frame_type!@#$,!@#$i!@#$,!@#$correction_factor!@#$,!@#$cm!@#$->!@#$bit_depth!@#$)!@#$;!@#$

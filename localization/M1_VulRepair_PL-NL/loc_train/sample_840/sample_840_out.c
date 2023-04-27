@@ -1,0 +1,1 @@
+print_comment!@#$(!@#$sql_file!@#$,!@#$0!@#$,!@#$"\n--\n-- Final view structure for view %s\n--\n\n"!@#$,!@#$fix_for_comment!@#$(!@#$result_table!@#$)!@#$)!@#$;!@#$

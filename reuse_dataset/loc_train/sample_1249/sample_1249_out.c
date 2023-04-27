@@ -1,0 +1,1 @@
+gpgsm!@#$->!@#$colon!@#$.!@#$attic!@#$.!@#$linesize!@#$=!@#$*!@#$alinelen!@#$+!@#$linelen!@#$+!@#$1!@#$;!@#$

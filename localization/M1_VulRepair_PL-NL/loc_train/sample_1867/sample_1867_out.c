@@ -1,0 +1,1 @@
+evcon!@#$->!@#$state!@#$=!@#$EVCON_DISCONNECTED!@#$;!@#$

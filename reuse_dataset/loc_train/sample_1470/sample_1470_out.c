@@ -1,0 +1,1 @@
+return!@#$vp9_pattern_search_sad!@#$(!@#$x!@#$,!@#$ref_mv!@#$,!@#$search_param!@#$,!@#$sad_per_bit!@#$,!@#$do_init_search!@#$,!@#$sad_list!@#$,!@#$vfp!@#$,!@#$use_mvcost!@#$,!@#$center_mv!@#$,!@#$best_mv!@#$,!@#$bigdia_num_candidates!@#$,!@#$bigdia_candidates!@#$)!@#$;!@#$

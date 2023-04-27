@@ -1,0 +1,1 @@
+{!@#$quantum_info!@#$=!@#$DestroyQuantumInfo!@#$(!@#$quantum_info!@#$)!@#$;!@#$}!@#$

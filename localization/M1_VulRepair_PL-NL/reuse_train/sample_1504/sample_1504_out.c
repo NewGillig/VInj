@@ -1,0 +1,1 @@
+rc!@#$->!@#$avg_q!@#$=!@#$vp9_convert_qindex_to_q!@#$(!@#$oxcf!@#$->!@#$worst_allowed_q!@#$,!@#$oxcf!@#$->!@#$bit_depth!@#$)!@#$;!@#$

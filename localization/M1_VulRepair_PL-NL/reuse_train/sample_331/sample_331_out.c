@@ -1,0 +1,1 @@
+uint32_t!@#$*!@#$const!@#$mb_type!@#$=!@#$s!@#$->!@#$current_picture_ptr!@#$->!@#$mb_type!@#$;!@#$

@@ -1,0 +1,1 @@
+buflen!@#$=!@#$buflen!@#$>!@#$pad!@#$?!@#$buflen!@#$-!@#$pad!@#$:!@#$0!@#$;!@#$if!@#$(!@#$__glibc_unlikely!@#$(!@#$buflen!@#$<!@#$sizeof!@#$(!@#$struct!@#$host_data!@#$)!@#$)!@#$)!@#$

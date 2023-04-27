@@ -1,0 +1,1 @@
+gid_t!@#$gid!@#$=!@#$g_slurm_auth_get_gid!@#$(!@#$msg!@#$->!@#$auth_cred!@#$,!@#$slurmctld_config!@#$.!@#$auth_info!@#$)!@#$;!@#$if!@#$(!@#$(!@#$error_code!@#$=!@#$_valid_id!@#$(!@#$"REQUEST_JOB_PACK_ALLOCATION"!@#$,!@#$job_desc_msg!@#$,!@#$uid!@#$,!@#$gid!@#$)!@#$)!@#$)!@#$

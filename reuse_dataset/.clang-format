@@ -1,0 +1,30 @@
+Language:        Cpp
+# BasedOnStyle:  LLVM
+
+IndentWidth:     4
+BraceWrapping:
+  AfterCaseLabel:  true
+  AfterClass:      true
+  AfterControlStatement: true
+  AfterEnum:       true
+  AfterFunction:   true
+  AfterNamespace:  true
+  AfterObjCDeclaration: true
+  AfterStruct:     true
+  AfterUnion:      true
+  AfterExternBlock: true
+  BeforeCatch:     true
+  BeforeElse:      true
+  IndentBraces:    true
+  SplitEmptyFunction: true
+  SplitEmptyRecord: true
+  SplitEmptyNamespace: true
+
+BreakBeforeBraces: Allman
+BreakConstructorInitializersBeforeComma: false
+AllowAllParametersOfDeclarationOnNextLine: false
+BreakStringLiterals: false
+ColumnLimit: 0
+
+
+

@@ -1,0 +1,1 @@
+s!@#$->!@#$current_picture!@#$.!@#$mb_type!@#$[!@#$xy!@#$]!@#$=!@#$MB_TYPE_SKIP!@#$|!@#$MB_TYPE_16x16!@#$|!@#$MB_TYPE_L0!@#$;!@#$

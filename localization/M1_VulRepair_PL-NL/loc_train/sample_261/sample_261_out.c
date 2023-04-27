@@ -1,0 +1,1 @@
+power_profile_count!@#$=!@#$MIN!@#$(!@#$tvb_get_guint8!@#$(!@#$tvb!@#$,!@#$*!@#$offset!@#$)!@#$,!@#$ZBEE_ZCL_PWR_PROF_NUM_PWR_PROF_ETT!@#$)!@#$;!@#$

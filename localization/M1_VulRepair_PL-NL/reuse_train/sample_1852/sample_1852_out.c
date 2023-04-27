@@ -1,0 +1,1 @@
+FD_CLOSEONEXEC!@#$(!@#$ns!@#$->!@#$socket!@#$)!@#$;!@#$

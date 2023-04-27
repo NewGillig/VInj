@@ -1,0 +1,1 @@
+evhttp_set_cb!@#$(!@#$myhttp!@#$,!@#$"/badrequest"!@#$,!@#$http_badreq_cb!@#$,!@#$NULL!@#$)!@#$;!@#$

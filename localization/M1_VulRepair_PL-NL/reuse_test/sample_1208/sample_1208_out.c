@@ -1,0 +1,1 @@
+return!@#$current_cpu!@#$->!@#$cpu_index!@#$;!@#$

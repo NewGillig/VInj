@@ -1,0 +1,1 @@
+r!@#$=!@#$safe_mount!@#$(!@#$"cgroup_root"!@#$,!@#$path!@#$,!@#$"tmpfs"!@#$,!@#$MS_NOSUID!@#$|!@#$MS_NODEV!@#$|!@#$MS_NOEXEC!@#$|!@#$MS_RELATIME!@#$,!@#$"size=10240k,mode=755"!@#$,!@#$root!@#$)!@#$;!@#$

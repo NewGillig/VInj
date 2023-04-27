@@ -1,0 +1,1 @@
+if!@#$(!@#$mask!@#$&!@#$KADM5_POLICY!@#$)!@#${!@#$if!@#$(!@#$!!@#$policy_exists!@#$(!@#$princ!@#$.!@#$policy!@#$)!@#$)!@#${!@#$fprintf!@#$(!@#$stderr!@#$,!@#$_!@#$(!@#$"WARNING: policy \"%s\" does not exist\n"!@#$)!@#$,!@#$princ!@#$.!@#$policy!@#$)!@#$;!@#$}!@#$}!@#$

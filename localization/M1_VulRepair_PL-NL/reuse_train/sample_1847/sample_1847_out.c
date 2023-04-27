@@ -1,0 +1,1 @@
+size_t!@#$used!@#$=!@#$buf!@#$->!@#$misalign!@#$+!@#$buf!@#$->!@#$off!@#$;!@#$if!@#$(!@#$buf!@#$->!@#$totallen!@#$-!@#$used!@#$<!@#$datlen!@#$)!@#$

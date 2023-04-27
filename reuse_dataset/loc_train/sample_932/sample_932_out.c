@@ -1,0 +1,1 @@
+{!@#$if!@#$(!@#$avio_feof!@#$(!@#$pb!@#$)!@#$)!@#$return!@#$AVERROR_INVALIDDATA!@#$;!@#$}!@#$

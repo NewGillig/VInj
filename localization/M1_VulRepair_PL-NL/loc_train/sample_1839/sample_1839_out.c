@@ -1,0 +1,1 @@
+if!@#$(!@#$npriorities!@#$==!@#$base!@#$->!@#$nactivequeues!@#$)!@#$return!@#$(!@#$0!@#$)!@#$;!@#$if!@#$(!@#$base!@#$->!@#$nactivequeues!@#$)!@#$
