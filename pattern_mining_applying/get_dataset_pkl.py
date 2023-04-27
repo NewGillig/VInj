@@ -14,8 +14,9 @@ f = open('reuse_train_final.pkl','wb')
 pickle.dump(pairs,f)
 f.close()
 
-real_world = os.listdir('./reuse_test/') # your dataset path
 
+pairs=[]
+real_world = os.listdir('./reuse_test/') # your dataset path
 for file in real_world:
     if '.pkl' in file:
         f = open('./reuse_test/'+file, 'rb')
