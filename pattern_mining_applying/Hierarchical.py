@@ -1164,7 +1164,7 @@ class HierarchicalCluster:
                 f.close()
                 self.proned = True
             else:
-                f = open('real_world_train_pairs.pkl', 'rb')
+                f = open('reuse_train_final.pkl', 'rb')
                 train_pairs = pickle.load(f)
                 f.close()
                 patterns = []
