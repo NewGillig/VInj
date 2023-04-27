@@ -9,7 +9,7 @@ Essentially, VInJ is a well implemented tool that separate *where* and *how* to 
 First, set up the environments and install dependencies.
 1. Install Java>=11.
 2. Install srcml for parsing code into AST: https://www.srcml.org/
-3. Download and extract our specific *gumtree-lite.zip*: https://figshare.com/s/d85b715edc26ea99c5fa.
+3. Download and extract our specific **gumtree-lite.zip**: https://figshare.com/s/d85b715edc26ea99c5fa.
 4. Set environment path for gumtree-lite:
 ```
 export GUMTREE=YOUR_GUMTREE_PATH
@@ -42,9 +42,9 @@ source pattern_train_demo.sh
 source pattern_test_demo.sh 
 ```
 To do complete training and testing, please download our full training and testing datasets for localization and pattern mining/application: 
-https://figshare.com/s/d85b715edc26ea99c5fa *localization_train_test_data.zip* and *vulgen_train_test_final.zip*. Then replace the respective folders and files with the demo ones.
+https://figshare.com/s/d85b715edc26ea99c5fa **localization_train_test_data.zip** and **vulgen_train_test_final.zip**. Then replace the respective folders and files with the demo ones.
 
-You can also directly download our trained localization model and patterns for testing, by download them in https://figshare.com/s/d85b715edc26ea99c5fa *VInj_trained_pattern_model.zip*. Or you can directly run the script to automatically download models and inject vulnerabilities on our testing set shown in the paper:
+You can also directly download our trained localization model and patterns for testing, by download them in https://figshare.com/s/d85b715edc26ea99c5fa **VInj_trained_pattern_model.zip**. Or you can directly run the script to automatically download models and inject vulnerabilities on our testing set shown in the paper:
 ```
 source pattern_test.sh
 ``` 
