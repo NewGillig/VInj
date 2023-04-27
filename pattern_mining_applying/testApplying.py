@@ -101,9 +101,12 @@ else:
 hierarchical_cluster = Hierarchical.HierarchicalCluster([])
 clusters = os.listdir('./clusters')
 for cluster in clusters:
-    f = open('./clusters/'+cluster,'rb')
-    hierarchical_cluster.hierarchical_nodes.extend(pickle.load(f))
-    f.close()
+    try:
+        f = open('./clusters/'+cluster,'rb')
+        hierarchical_cluster.hierarchical_nodes.extend(pickle.load(f))
+        f.close()
+    except:
+        pass
 
 testPairs(pairs)
 
