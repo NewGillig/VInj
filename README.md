@@ -6,6 +6,16 @@
 Essentially, VInJ is a well implemented tool that separate *where* and *how* to inject vulnerabilities into existing programs, to automatically generate vulnerability datasets. It can be also used for other code edit tasks that need to first locate the code and then edit.
 
 ## Installation
+We provide two ways to install VInJ. The best way is to use our docker image and this is recommended:
+```
+docker pull g2ecb/vinj:latest
+containerid=`docker run -d -it --gpus all g2ecb/vinj:latest bash`
+docker exec -it $containerid bash
+```
+Once the docker container is set up, you can directly go to **usage** Section for the next step.
+
+Otherwise, please follow the instructions below to set up the environments on your computer.
+
 First, set up the environments and install dependencies.
 1. Install Java>=11.
 2. Install srcml for parsing code into AST: https://www.srcml.org/
