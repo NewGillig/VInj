@@ -4,11 +4,11 @@ python vulrepair_main.py \
     --tokenizer_name=Salesforce/codet5-base \
     --model_name_or_path=Salesforce/codet5-base \
     --do_train \
-    --epochs 10 \
+    --epochs 75 \
     --encoder_block_size 512 \
-    --decoder_block_size 512 \
-    --train_batch_size 1 \
-    --eval_batch_size 1 \
+    --decoder_block_size 256 \
+    --train_batch_size 8 \
+    --eval_batch_size 8 \
     --learning_rate 2e-5 \
     --max_grad_norm 1.0 \
     --evaluate_during_training \
