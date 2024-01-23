@@ -5,7 +5,7 @@ python vulrepair_main.py \
     --model_name_or_path=Salesforce/codet5-base \
     --do_train \
     --epochs 75 \
-    --encoder_block_size 512 \
+    --encoder_block_size 1024 \
     --decoder_block_size 256 \
     --train_batch_size 8 \
     --eval_batch_size 8 \
