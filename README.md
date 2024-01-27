@@ -1,7 +1,7 @@
 # VInJ: Automatic Vulnerability Dataset Generation
 
 ## Introduction
-![Alt text](https://raw.githubusercontent.com/NewGillig/VInj/master/workflow.png)
+![Alt text](https://raw.githubusercontent.com/NewGillig/VInj/master/workflow2024.png)
 
 Essentially, VInJ is a well implemented tool that separate *where* and *how* to inject vulnerabilities into existing programs, to automatically generate vulnerability datasets. It can be also used for other code edit tasks that need to first locate the code and then edit.
 
